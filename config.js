@@ -4,7 +4,7 @@ const CONFIG = {
    
 
 
-    btnIntro: 'Tui biết mà 🥰',
+    btnIntro: 'Tui biết mà  🥰',
     title: 'Có ngiu tui thì mới thoát ra thuii',
     desc: 'Giờ seo ?  Iu tui hongg?? ',
     btnYes: 'Yêu nhất quả đất luonnnn ❤',
